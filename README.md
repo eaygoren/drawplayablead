@@ -1,4 +1,4 @@
-# Slot Game Case Study
+# Playable Ad Test Project
 
 This ad game was developed as test project using modern web technologies.
 
