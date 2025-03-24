@@ -1,6 +1,6 @@
 # Slot Game Case Study
 
-This ad game was developed as a case study for the Matchingham Games project using modern web technologies.
+This ad game was developed as test project using modern web technologies.
 
 ## Table of Contents
 
